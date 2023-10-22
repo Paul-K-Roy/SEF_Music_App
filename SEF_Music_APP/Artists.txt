@@ -1,0 +1,2 @@
+567ABCDE$$,John Doe,City|State|Country,20-05-1995,Singer,Rock,2021, Best New Artist
+579MMMRR_%,John Doe,Melbourne|Victoria|Australia,05-11-1985,Singer;Songwriter,pop;classical,2022, Best Song Written For Visual Media

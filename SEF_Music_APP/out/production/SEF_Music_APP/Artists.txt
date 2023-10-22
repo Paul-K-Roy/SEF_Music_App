@@ -1,0 +1,1 @@
+567ABCDE$$,John Doe,City|State|Country,20-05-1995,Singer,Rock,2021, Best New Artist
